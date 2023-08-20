@@ -130,13 +130,13 @@ a{
     height: 630px;
 }
 .index_image2::after{
-    content: url(/img/image\ 11.png);
+    content: url('/img/image-11.png');
     position: absolute;
     right : -50%;
     top: 5%;
 }
 .index_image2::before{
-    content: url(/img/image\ 12.png);
+    content: url('/img/image-12.png');
     position: absolute;
     left : -50%;
     top: -7%;
